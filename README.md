@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 |--------|-------------|-------|
 | [COVID-19 Data Analysis](https://github.com/yourusername/COVID19-Analysis) | Cleaned, analyzed & visualized COVID data. | Python, Pandas, Plotly |
 | [HR Analytics Dashboard](https://github.com/yourusername/HR-Analytics) | Explored gender inequality & salary gaps. | Power BI, Excel |
-| [Sales Data Insights](https://github.com/yourusername/Sales-Insights) | Built dashboards and generated KPIs. | SQL, Excel, Tableau |
+| [Sales Data Insights](https://github.com/yourusername/Sales-Insights) | Built dashboards and generated KPIs. | SQL, Excel |
 
 ## 📫 Let's Connect!
 - 🌐 [LinkedIn] https://linkedin.com/in/oluwaseyi-israel/
